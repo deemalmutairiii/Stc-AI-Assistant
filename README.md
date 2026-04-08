@@ -2,6 +2,12 @@
 
 An AI-powered telecom assistant designed to handle customer queries, solve issues, and recommend plans intelligently.
 
+## Interface Preview
+
+<p align="center">
+  <img src="stc interface.png" width="700"/>
+</p>
+
 ## Features
 - Answers company-related questions (STC info)
 - Diagnoses internet issues
