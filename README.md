@@ -18,7 +18,7 @@ An AI-powered telecom assistant designed to handle customer queries, solve issue
 ## Tech Stack
 - FastAPI (Backend)
 - React + Vite (Frontend)
-- OpenAI API (LLM)
+- OpenAI API (LLM),model="gpt-4o"
 
 ## Demo
 Video demo: [https://drive.google.com/file/d/1B5sAvpYSjeBbLhIsbcTB9W8Mii5jFJxO/view?usp=sharing]
